@@ -1,1 +1,8 @@
-I added some new chapters.
+
+            Remote Repo
+
+
+Step1:  The first thing is creating a Remote. So it's telling my Local Git Repository that I've created a 
+        Remote Repository somewhere on the internet and I want to transfer all of my commits over there.
+        "git remote add origin main". Here origin is the name of Remote, by convention programmer use origin 
+        as remote name
