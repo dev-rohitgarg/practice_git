@@ -1,1 +1,15 @@
 Hello, I am learning Git.
+
+Step1: first run "git init" command to intialize git. My current directory is "Working Directory",
+        where we do git init.
+Step2: There is somthing called Staging Area. And that is basically an intermediate place 
+        where you can pick and choose which files inside your working directory that you want to commit.
+        So to see what's currently inside your staging area, you can use the "git status" command, 
+        and it shows you that there are untracked files (not in Staging Area) which will be shown in red.
+Step3: In order to add it to the staging area and to start tracking changes in it, then we have to use
+        the command, "git add <file name>". this is now in the staging area and it's ready to be committed.
+        it is now green.
+        "git add ." will add all the files to staging area.
+Step4: To commit the file in Staging area, Use "git commit -m <message to know the changes in this version>"
+        write message in present tense, as it is a good practice.
+Step5:  you can see what commits you have made by using the, "git log" command.
