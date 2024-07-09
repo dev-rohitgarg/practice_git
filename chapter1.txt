@@ -33,6 +33,11 @@
 
     Step1: "git checkout <file name>"
 
+5   How to remove files from stagging area
+
+     Step1: "git rm --cached -r ." Here -r is for recursive add . at the end is for all the files in 
+     current directory
+
 
 
 
