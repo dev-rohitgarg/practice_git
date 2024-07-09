@@ -15,3 +15,8 @@
         Note:   Only one file name should be written in one line.
         Note:   we can use *.eg to ignore all files with .eg extention
         Note:   # can be used for comments in the file
+
+        IMP :   https://github.com/github/gitignore This is a github repo where we can copy paste content 
+                of .gitignore file. We can seach in this repo, example if we are using node then search node 
+                in this repo and we will get all the files which we might want to secure.
+                
