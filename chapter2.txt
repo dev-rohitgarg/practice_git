@@ -1,6 +1,6 @@
                         Remote Repo
 
-1       How to commit using git.
+1   How to commit using git.
         Step1:  The first thing is creating a Remote. So it's telling my Local Git Repository that I've created
                 a Remote Repository somewhere on the internet and I want to transfer all of my commits over 
                 there."git remote add origin main <URL of our remote repository on GitHub>". Here origin is the 
@@ -8,8 +8,8 @@
         Step2:  "git push -u origin main". Here -u is used so that after this command I can ignore writting 
                 orgin main again and again in git push or pull commands.
 
-2       How to prevent some Secret files to be upload on github?
-        Step1: Create a new file named .gitignore in the working directory. and add the name of all the file to
+2   How to prevent some Secret files to be upload on github?
+        Step1:  Create a new file named .gitignore in the working directory. and add the name of all the file to
                 be ignored in the .gitignore file. After this all the files will not add to staging area which
                 are mentioned in .gitignore file.
         Note:   Only one file name should be written in one line.
@@ -19,4 +19,12 @@
         IMP :   https://github.com/github/gitignore This is a github repo where we can copy paste content 
                 of .gitignore file. We can seach in this repo, example if we are using node then search node 
                 in this repo and we will get all the files which we might want to secure.
-                
+
+3   How to copy of the code and version of a remote repo (open source) into our local repo?
+        Step1:  "git clone <url of the remote repo>"
+
+        IMP:    https://github.com/MunGell/awesome-for-beginners for some open source contribution for 
+                beginners.
+                Also check out https://github.com/clupasq/word-mastermind
+
+
