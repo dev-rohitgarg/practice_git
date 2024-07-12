@@ -1,1 +1,15 @@
-Added chapter3.
+
+                Branching and Merging
+
+
+1   How to create a new Branch?
+        Step1:  "git branch <branch name>"
+
+2   How to check to see all the branch name on terminal
+        Step1:  "git branch"
+        Note:   the branch with * mark is current working branch
+
+3   How to Switch in between the branch
+        Step1:  "git checkout <name of the branch where I want to go>"
+        Note:   git checkout the same commad we used to Discard changes in the working directory 
+                as mentioned in chapter1
