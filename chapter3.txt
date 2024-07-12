@@ -13,3 +13,7 @@
         Step1:  "git checkout <name of the branch where I want to go>"
         Note:   git checkout the same commad we used to Discard changes in the working directory 
                 as mentioned in chapter1
+
+4    How to merge a branch into main
+        Step1:  go to the main branch.
+        Step2:  "git merge <branch name>"
