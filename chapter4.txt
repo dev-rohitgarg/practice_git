@@ -1,3 +1,10 @@
 
                 Forking and pull requests
+1   What is Forking?
+        Make a copy of a remote repo on one,s github account to our github account.
+
+2   What is a Pull request?
+        After Forking, If I want to make the changes of my remote repo to the repo of the original owner, 
+        then I have to make Pull request. It is just a suggestion that I make make some changes, If you like 
+        then then please add these to your repo.
 
